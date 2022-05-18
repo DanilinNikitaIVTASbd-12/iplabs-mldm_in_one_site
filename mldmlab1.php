@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1,
     shrink-to-fit=no">
     <link rel="stylesheet" href="styles/myworkstyle.css">
+    <script type="text/javascript" src="/scripts/scriptmldm2.js"></script>
 </head>
 <body>
 <header class="header">
